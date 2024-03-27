@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.glasses {
+  background: none;
+  position: absolute;
+  top: 74px;
+  width: 170px;
+  left: 60px
+}
